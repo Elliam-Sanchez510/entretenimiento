@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+	    <pattern>Hola</pattern>
+	    <template>Hola, en qué puedo ayudarte</template>
+    </category>
+    
+	<category>
+	    <pattern>Qué película me recomiendas</pattern>
+	     <template>¿Qué género de películas te gusta?</template>
+    </category>
+    
+	<category>
+	    <pattern>Ciencia ficcion</pattern>
+	    <template>Blade Runner 2049</template>
+    </category>
+    
+	<category>
+	    <pattern>Gracias</pattern>
+	    <template>¿Hay algo más en lo que pueda ayudarte?</template>
+    </category>
+    
+	<category>
+	    <pattern>Si</pattern>
+	    <template>¿Dime, cual es tu pregunta?</template>
+    </category>
+    
+    	<category>
+	    <pattern>Cual es tu videojuego favorito</pattern>
+	    <template>Mi videojuego favorito es Minecraft</template>
+    </category>
+    
+    	<category>
+	    <pattern>Qué libro me recomendarías leer</pattern>
+	    <template>Clean Code, es muy interesante!</template>
+    </category>
+ 
+    	<category>
+	    <pattern>Puedes contarme un chiste divertido</pattern>
+	    <template>
+	   Por supuesto, aquí te va un chiste:
+       ¿Por qué los programadores prefieren el invierno?
+       Porque les da igual el lenguaje que haga fuera.
+	    </template>
+    </category>
+    
+    <category>
+    <pattern>Que puedes hacer</pattern>
+    <template>
+        Puedo responder preguntas,entre otras cosas. ¿Qué te gustaría que haga?
+    </template>
+  </category>
+ 
+    <category>
+    <pattern>Cuál es tu destino turístico favorito</pattern>
+    <template>Mi destino turistico favorito es Londres</template>
+  </category>
+  
+    <category>
+    <pattern>Mejor lenguaje de de programacion para crear IA</pattern>
+    <template>Python: Es uno de los lenguajes de programación más
+    utilizados para el desarrollo de IA debido a su gran cantidad
+    de bibliotecas y frameworks especializados en IA
+    </template>
+  </category>
+  
+  <category>
+    <pattern>Recomiendame una musica</pattern>
+    <template>Puedes escuchar Headlights de Alan Walker</template>
+  </category>
+  
+   <category>
+    <pattern>Quiero saber sobre el clima</pattern>
+    <template>Lo siento, no tengo acceso a la información meteorológica en este momento.</template>
+  </category>
+  
+  <category>
+    <pattern>Qué es una computadora</pattern>
+    <template>Una computadora es una máquina electrónica
+    que procesa datos de acuerdo con un conjunto de 
+    instrucciones programadas. ¿Quieres saber más sobre su historia?
+    </template>
+  </category>
+  
+  <category>
+    <pattern>No</pattern>
+    <template>De acuerdo, ¿en qué más puedo ayudarte?</template>
+  </category>
+  
+  <category>
+    <pattern>Cómo te llamas</pattern>
+    <template>Mi nombre es Chatbots.</template>
+  </category>
+	
+</aiml>

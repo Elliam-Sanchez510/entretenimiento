@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template></template>
+  </category>
+  
+  <category>
+    <pattern>*</pattern>
+    <template>¿Qué género de películas te gusta?</template>
+  </category>
+  
+  <category>
+    <pattern>*</pattern>
+    <template>¿Hay algo más en lo que pueda ayudarte?</template>
+  </category>
+  
+   <category>
+    <pattern>*</pattern>
+    <template>Mi videojuego favorito es Minecraft</template>
+  </category>
+  
+   <category>
+    <pattern>*</pattern>
+    <template>Clean Code, es muy interesante!</template>
+  </category>
+  
+   <category>
+    <pattern>*</pattern>
+    <template>
+	  <li>Por supuesto, aquí te va un chiste:</li>
+      <li>¿Por qué los programadores prefieren el invierno?</li>
+      <li>Porque les da igual el lenguaje que haga fuera.</li>
+    </template>
+  </category>
+  
+   <category>
+    <pattern>*</pattern>
+        <template>Puedo responder preguntas,entre otras cosas. ¿Qué te gustaría que haga?</template>
+  </category>
+  
+   <category>
+    <pattern>*</pattern>
+        <template>Mi destino turistico favorito es Londres</template>
+  </category>
+  
+   <category>
+    <pattern>*</pattern>
+        <template>Python: Es uno de los lenguajes de programación más
+        utilizados para el desarrollo de IA debido a su gran cantidad
+        de bibliotecas y frameworks especializados en IA
+    </template>
+  </category>
+  
+   <category>
+    <pattern>*</pattern>
+        <template>Puedes escuchar Headlights de Alan Walker</template>
+  </category>
+  
+   <category>
+    <pattern>*</pattern>
+        <template>Una computadora es una máquina electrónica
+        que procesa datos de acuerdo con un conjunto de 
+        instrucciones programadas. ¿Quieres saber más sobre su historia?
+    </template>
+  </category>
+  
+  <category>
+    <pattern>*</pattern>
+    <template>De acuerdo, ¿en qué más puedo ayudarte?</template>
+  </category>
+  
+  <category>
+    <pattern>*</pattern>
+    <template>Mi nombre es Chatbots.</template>
+  </category>
+  
+   
+</aiml>
